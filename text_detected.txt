@@ -1,0 +1,57 @@
+    Handout" 3 Introduction to Graphs
+
+INTRODUCTION •ro GRAPHS
+
+Graph theory plays an role in several areas Of computer
+
+science such as:
+
+switching tl•coty and logical design
+
+artificial intelligence
+
+formal languages
+
+computer gnpllics
+
+Operating systems
+
+compiler writing
+
+information organization retrieval.
+
+A graph is a non•empty set of points called set of line segments joining
+
+pairs Of verlices called edges.
+
+Formally, a graph G consists Of two finite Sets:
+
+(i) A set V'V(G) of venices (or points or nodes)
+
+(ii)A set of edges; where each edge corvespond5 to a pair Of venices.
+
+The graph G With
+
+V(G)— v', v', vd and
+
+SOME
+
+L An edge connects cither one or two vertices called its endpoints (edge e, connects
+
+vertices and v, described as v:} i.e and v: are the endpoints of an edge
+
+2. An edge with just one endpoint is called a loop. •nus a loop is an edge that connects a
+
+vertex to itself (e.g.. edge e, makes a loop as it has only one endpoint
+
+3. Two vertices that are connected by an edge are called adjacent; and a vertex that is
+
+an endmyint ofa loop is said to be adjacent to itself.
+
+4. An edge is said to be incident on each of its endpoints(i.e. e, is incident on VI and v:
+
+5. A vertex on which no edges are incident is called isolated (e.g., v')
+
+6. Two distinct edges with the same set of end points are said to be parallel (i.e. e: &
+
+
